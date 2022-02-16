@@ -6,6 +6,8 @@
                 ""
             ],
             "normal_o3":""
+            "intermediate_o3":""
+            "Hazardous_o3": ""
         },
         {
             "no2":
@@ -13,6 +15,8 @@
                 ""
             ],
             "normal_no2":""
+            "intermediate_no2":""
+            "Hazardous_no2": ""
         },
         {
             "so2":
@@ -20,6 +24,8 @@
                 ""
             ],
             "normal_so2":""
+            "intermediate_so2":""
+            "Hazardous_so2": ""
         },
         {
             "co":
@@ -27,6 +33,8 @@
                 ""
             ],
              "normal_co":""
+             "intermediate_co":""
+             "Hazardous_co": ""
         },
         {
             "pm10":
@@ -34,6 +42,8 @@
                 ""
             ],
             "normal_pm10":""
+            "intermediate_pm10":""
+            "Hazardous_pm10": ""
         },
         {
             "pm25":
@@ -41,6 +51,8 @@
                 ""
             ],
             "normal_pm25":""
+            "intermediate_pm25":""
+            "Hazardous_pm25": ""
         }
     ]
 }
