@@ -5,42 +5,56 @@
             [   "",
                 ""
             ],
-            "normal_o3":""
+            "normal_o3":" 0-50 ug/m^3"
+            "intermediate_o3": "51-168 ug/m^3"
+            "Hazardous_o3": ">748 ug/m^3"
         },
         {
             "no2":
             [   "",
                 ""
             ],
-            "normal_no2":""
+            "normal_no2":" 0-40 ug/m^3"
+            "intermediate_no2": "41-180 ug/m^3"
+            "Hazardous_no2": ">400 ug/m^3"
+            
         },
         {
             "so2":
             [   "",
                 ""
             ],
-            "normal_so2":""
+            "normal_so2":" 0-40 ug/m^3 "
+            "intermediate_so2" : " 41-380 ug/m^3"
+            "Hazardous_so2": ">1600 ug/m^3 "
         },
         {
             "co":
             [   "",
                 ""
             ],
-             "normal_co":""
+             "normal_co":"0-1.0 mg/m^3"
+             "intermediate_co" :" 1.1-10 mg/m^3"
+             "Hazardous_co" : " >34 ug/m^3"
+
         },
         {
             "pm10":
             [   "",
                 ""
             ],
-            "normal_pm10":""
+            "normal_pm10":" 0-50 ug/m^3"
+            "intermediate_pm10": " 51-250 ug/m^3"
+            "Hazardous_pm10": " >430 ug/m^3"
         },
         {
-            "pm25":
+            "pm2.5":
             [   "",
                 ""
             ],
-            "normal_pm25":""
+            "normal_pm2.5":" 0-30 ug/m^3"
+            "intermediate_pm2.5": " 31-90 ug/m^3"
+            "Hazardous_pm2.5": " >250 ug/m^3"
         }
     ]
 }
